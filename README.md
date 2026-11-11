@@ -113,7 +113,7 @@ python -m streamlit run app.py
 
 Open the local URL displayed in the terminal, usually:
 
-http://localhost:8501
+http://localhost:8505
 
 The trained model must be available at:
 
